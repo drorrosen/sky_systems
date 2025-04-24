@@ -1,0 +1,112 @@
+users:
+  # Managers
+  - name: Bugg, S
+    username: steve@skysystemz.com
+    password: Sky2025 # TODO: Hash this password
+    role: Management
+  - name: Drummy, J.
+    username: jdrummy@skysystemz.com
+    password: Sky2025 # TODO: Hash this password
+    role: Management
+  - name: Nichols, B.
+    username: brian@skysystemz.com
+    password: Sky2025 # TODO: Hash this password
+    role: Management
+  - name: Reed, J.
+    username: jreed@skysystemz.com
+    password: Sky2025 # TODO: Hash this password
+    role: Management
+  - name: Skenderian, D.
+    username: don@fractalpay.com # Corrected domain
+    password: Sky2025 # TODO: Hash this password
+    role: Management
+  - name: Tracey, J.
+    username: johnt@skysystemz.com
+    password: Sky2025 # TODO: Hash this password
+    role: Management
+  - name: Traynor, T.
+    username: teresa@skysystemz.com
+    password: Sky2025 # TODO: Hash this password
+    role: Management
+  - name: Ward, M.
+    username: michelle@fractalpay.com
+    password: Sky2025 # TODO: Hash this password
+    role: Management
+  - name: Clark, M.
+    username: malcolm@fractalpay.com
+    password: Sky2025 # TODO: Hash this password
+    role: Management
+
+  # Sales Representatives
+  - name: Black, S
+    username: shi@skysystemz.com # Corrected domain
+    password: Sky2025 # TODO: Hash this password
+    role: Sales Representative
+  - name: Bosico, M
+    username: mbosico@skysystemz.com
+    password: Sky2025 # TODO: Hash this password
+    role: Sales Representative
+  - name: Carter, A
+    username: acarter@skysystemz.com
+    password: Sky2025 # TODO: Hash this password
+    role: Sales Representative
+  - name: Delaney, D
+    username: ddelaney@skysystemz.com
+    password: Sky2025 # TODO: Hash this password
+    role: Sales Representative
+  - name: Duff, T
+    username: todd@skysystemz.com
+    password: Sky2025 # TODO: Hash this password
+    role: Sales Representative
+  - name: Ely, E
+    username: eely@skysystemz.com
+    password: Sky2025 # TODO: Hash this password
+    role: Sales Representative
+  - name: Fleming, R
+    username: rfleming@skysystemz.com
+    password: Sky2025 # TODO: Hash this password
+    role: Sales Representative
+  - name: Garcia, B
+    username: agarcia@skysystemz.com
+    password: Sky2025 # TODO: Hash this password
+    role: Sales Representative
+  - name: Gibson, D
+    username: dgibson@skysystemz.com
+    password: Sky2025 # TODO: Hash this password
+    role: Sales Representative
+  - name: Guzman, J
+    username: jguzman@skysystemz.com
+    password: Sky2025 # TODO: Hash this password
+    role: Sales Representative
+  - name: Hertel, R
+    username: rhertel@skysystemz.com
+    password: Sky2025 # TODO: Hash this password
+    role: Sales Representative
+  - name: Jacobson, T
+    username: tjacobson@skysystemz.com
+    password: Sky2025 # TODO: Hash this password
+    role: Sales Representative
+  - name: Lawhon, H
+    username: hlawhon@skysystemz.com
+    password: Sky2025 # TODO: Hash this password
+    role: Sales Representative
+  - name: Mata, K
+    username: kmata@skysystemz.com
+    password: Sky2025 # TODO: Hash this password
+    role: Sales Representative
+  - name: Pankratz, S
+    username: spankratz@skysystemz.com
+    password: Sky2025 # TODO: Hash this password
+    role: Sales Representative
+  - name: Reddick, L
+    username: lreddick@skysystemz.com
+    password: Sky2025 # TODO: Hash this password
+    role: Sales Representative
+  - name: Seiler, M
+    username: mseiler@skysystemz.com
+    password: Sky2025 # TODO: Hash this password
+    role: Sales Representative
+  - name: Simmons, M
+    username: msimmons@skysystemz.com
+    password: Sky2025 # TODO: Hash this password
+    role: Sales Representative 
